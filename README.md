@@ -31,7 +31,7 @@ IN 1999, digiScent developed a computer peripheral device called iSmell, which w
 
 PRINCIPAL OF E-NOSE
 
-E-nose is the fundamental principles of artificial nose that each sensored in the array has different sensitivity. The pattern of reponse acrros the sensors is distinct from different odors. Different E-nose, use different types of gas sense which forms heart of e-nose. The sensor's response is recorded and delivered to the signal prossecing unit and then it is converted into electronic signal by using a transducer and is processed by using the signal processing unit. Signs of sensing an ordant vapor, array of sensors, pattern recognition and then the smelling(a stage of input, processing and output).
+E-nose is the fundamental principles of artificial nose that each sensored in the array has different sensitivity. The pattern of reponse across the sensors is distinct from different odors. Different E-nose, use different types of gas sense which forms heart of e-nose. The sensor's response is recorded and delivered to the signal prossecing unit and then it is converted into electronic signal by using a transducer and is processed by using the signal processing unit. Signs of sensing an ordant vapor, array of sensors, pattern recognition and then the smelling(a stage of input, processing and output).
 
 DST SCENTING AND COMMUNICATION
 
