@@ -120,4 +120,10 @@ Potential Application of DST:
 3. Culinary Experiences
 4. Environment Simulation
 5. Ambiance
+
+SUMMARY
+
+Digital Scent Technology
+
+This is a technology to sense, transmit and receive scent-enabled digital media (such as web pages, video games, movies and music). This sensing part of this technology works by using olfactometers and electronic noses.  With Digital Scent Technology it is possible to scent, transmit and recieve smell through the internet.  Digital Scent Technology is the engineering discipline, dealing with olfactory representation. It is a technology to sense, transmit and recieve Digital Media.
    
