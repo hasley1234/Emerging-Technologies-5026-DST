@@ -56,7 +56,7 @@ DISADVANTAGES
 3. LEARNING EXPERIENCE DISRUPTION
 4. PRICE
 
-OPPORTUNITY FOR DST
+OPPORTUNITY FOR DIGITAL SCENT TECHNOLOGY
 
 Triggers
 
@@ -77,5 +77,47 @@ Players
 Drivers
 Digital scent technology and the availability of scenting with computer
 
+IMPACT OF DIGITAL SCENT TECHNOLOGY
 
+Networking Effects and Interactions
 
+1. Age of DST Abundance
+2. 4G 5G IoT
+3. Virtual Reality
+4. Observeability of DST
+5. IoT
+6. Big Data
+
+Competitive Advantage
+
+1. Agility via DST and Iot
+2. Improve Engagement Accessibility
+3. Enhanced memory Retention
+4. Cost-effectiveness
+
+Financial Benefits
+
+New revenue stream by scenting insight by DST and IoT
+
+Disruptee
+
+All persons and professionals encounter DST
+
+Process is complex broken down in basic steps
+1. Scent Creation
+2. Scent Digitization
+3. Scent Reproduction
+
+Supply Chain
+
+Sharing insight and data with customers on DST, suppliers and other parties in value chain/global interaction (Marketing Communication)
+
+DST Data Partners
+
+Potential Application of DST:
+1. Virtual Reality Enhacement
+2. Therapuetic Uses
+3. Culinary Experiences
+4. Environment Simulation
+5. Ambiance
+   
