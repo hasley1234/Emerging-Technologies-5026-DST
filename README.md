@@ -13,15 +13,14 @@ screen's surface by fans, and varying the strength and direction of them spreadi
 Psychological inflluential clothing that measures core temperature and identifies moods and releases fragrances to counteract bad moods, depressive states or to maintain possible moods-its all available to look up.  Our ability to identify age by scent identified studies.  One may think of Digital Scent Technology like unto 3-D printer, and this is operated to the need of the machine that creates and emits the product, but to digitally "transfer" scent all that is needed is code.  So the data is sent across the web for the recipient to access
 the smell but the scent molecules themselves did not travel.
 
-Many perfumes are made by extracting sscented oil from natural ingredients.  These ingredients can includes various plants, fruit, woods and even animal secretions.  Other resources like alcohol, coal, tars, and petrochemicals can be used during the manufacturing process.  Fragrance notes are essentially the different scent layers that make up the final fragrance.  The scents are split into three distinct elements.  Top notes, heart notes and base notes.  Together, the top, heart and base notes work together to create a beautiful fragrance.
+Many perfumes are made by extracting scented oil from natural ingredients.  These ingredients can includes various plants, fruit, woods and even animal secretions.  Other resources like alcohol, coal, tars, and petrochemicals can be used during the manufacturing process.  Fragrance notes are essentially the different scent layers that make up the final fragrance.  The scents are split into three distinct elements.  Top notes, heart notes and base notes.  Together, the top, heart and base notes work to create a beautiful fragrance.
 
 ORIGIN OF DIGITAL SCENT TECHNOLOGY
 
 The common ingredient found in perfume are beyzel, alcohol, ethanol, ethylacetate, bsenzaldehyde, camhor, formaldehyde, methylene chloride and limonene.  "Dexter Smith and Joel
 Lloyd Bellenson" experts in bioinformatics and genomics, started from the following idea: if we can find the essence of a biological smell and build a profile, we can digitalize and broadcast it."  
 
-IN 1999, digiScent developed a computer peripheral device called ismell, which was designed to emit a smell when a user visited a web site or opened an email.  
-The device contain a cartridge with 128 “primary odors”, which could be mixed to replicate natural and man-made odors. 
+IN 1999, digiScent developed a computer peripheral device called iSmell, which was designed to emit a smell when a user visited a web site or opened an email.  The device contain a cartridge with 128 “primary odors”, which could be mixed to replicate natural and man-made odors. 
 
 
 
@@ -32,11 +31,11 @@ The device contain a cartridge with 128 “primary odors”, which could be mixe
 
 PRINCIPAL OF E-NOSE
 
-E-nose is the fundamental principles of artificial nose that each sensored in the array has different sensitivity. Th epattern of reponse acrros the sensors is distinct from different odors. Different E-nose, use different types of gas sense which forms heart of e-nose. The sensor's response is recorded and delivered to the signal prossecing unit and then it is converted into electronic signal by using a transducer and is processed by using the signal processing unit. Signs of sensing an ordant vapor, array of sensors, pattern recognition and then the smelling(a stage of input, processing and output).
+E-nose is the fundamental principles of artificial nose that each sensored in the array has different sensitivity. The pattern of reponse acrros the sensors is distinct from different odors. Different E-nose, use different types of gas sense which forms heart of e-nose. The sensor's response is recorded and delivered to the signal prossecing unit and then it is converted into electronic signal by using a transducer and is processed by using the signal processing unit. Signs of sensing an ordant vapor, array of sensors, pattern recognition and then the smelling(a stage of input, processing and output).
 
 DST SCENTING AND COMMUNICATION
 
-Some primary oudrs have been proposed(DST): musky, putrid, pungent, comphoraceous, ethereal, floral and peppermint just to list a few smells. Digital scent communication entails the following: chemical make up, scnets spectrum, scent index, digitizing, primary odor, detached scent and scent bus communication. 
+Some primary odors have been proposed (DST): musky, putrid, pungent, comphoraceous, ethereal, floral and peppermint just to list a few smells. Digital scent communication entails the following: chemical make up, scent spectrum, scent index, digitalizing, primary odor, detached scent and scent bus communication. 
 
 Synthetic musks and phthalates potentially hazardous components as perfume ingredient.
 
@@ -73,9 +72,10 @@ Players
 5. Instagram
 6. Social Media Apps in General
 7. 4G and 5G
+8. Internet of Things, and many more
 
 Drivers
-Digital scent technology and the availability of scenting with computer
+Digital scent technology and the availability of scenting with computer and Internet
 
 IMPACT OF DIGITAL SCENT TECHNOLOGY
 
@@ -86,7 +86,7 @@ Networking Effects and Interactions
 3. Virtual Reality
 4. Observeability of DST
 5. IoT
-6. Big Data
+6. Big Data, and many more
 
 Competitive Advantage
 
@@ -104,6 +104,7 @@ Disruptee
 All persons and professionals encounter DST
 
 Process is complex broken down in basic steps
+
 1. Scent Creation
 2. Scent Digitization
 3. Scent Reproduction
@@ -115,6 +116,7 @@ Sharing insight and data with customers on DST, suppliers and other parties in v
 DST Data Partners
 
 Potential Application of DST:
+
 1. Virtual Reality Enhacement
 2. Therapuetic Uses
 3. Culinary Experiences
@@ -129,10 +131,10 @@ FUTURE
 
 RISK
 
-1. Job Replacement
+1. Job Replacement,dismissal and redundant
 2. Privacy Disruptions
-3. Superintellegence Robotic
-4. Many convergence emerging technologies while in competition trying to achieve advancement
+3. Superintellegence Robotics
+4. Many convergence emerging technologies while in competition trying to achieve advancements
 5. Social Effects
 6. Economic Effects
 7. Financial Effects
