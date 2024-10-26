@@ -121,7 +121,29 @@ Potential Application of DST:
 4. Environment Simulation
 5. Ambiance
 
-   
+FUTURE
+1. The engagement of DST is global and all humanity encounters this digital smelling Technology
+2. In the next 5 to 10 years (In the near future) DST will be more of a reality to all IoT Technologist-Computers
+3. General all technology AI, including IoT, 4G and 5G will engage in its product-aging
+
+RISK
+1. Job Replacement
+2. Privacy Disruptions
+3. Superintellegence Robotic
+4. Many convergence emerging technologies while in competition trying to achieve advancement
+5. Social Effects
+6. Economic Effects
+7. Financial Effects
+8. Physiological Effects
+9. Educational Effects
+10. Psychological Effects
+11. Health Effects
+12. E-Nose
+13. Chemical Risk
+14. iSmell and Catridge
+15. Entertainment
+16. Music
+
 
 SUMMARY
 
