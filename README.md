@@ -122,11 +122,13 @@ Potential Application of DST:
 5. Ambiance
 
 FUTURE
+
 1. The engagement of DST is global and all humanity encounters this digital smelling Technology
 2. In the next 5 to 10 years (In the near future) DST will be more of a reality to all IoT Technologist-Computers
 3. General all technology AI, including IoT, 4G and 5G will engage in its product-aging
 
 RISK
+
 1. Job Replacement
 2. Privacy Disruptions
 3. Superintellegence Robotic
