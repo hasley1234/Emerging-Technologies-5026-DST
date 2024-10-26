@@ -154,4 +154,17 @@ SUMMARY
 Digital Scent Technology
 
 This is a technology to sense, transmit and receive scent-enabled digital media (such as web pages, video games, movies and music). This sensing part of this technology works by using olfactometers and electronic noses.  With Digital Scent Technology it is possible to scent, transmit and recieve smell through the internet.  Digital Scent Technology is the engineering discipline, dealing with olfactory representation. It is a technology to sense, transmit and recieve Digital Media.
+
+
+REFERENCES
+
+Shriram, Vasudevan P.hD, What is Digital Scent Technology? DST a Quick Understanding
+http://www.gyanvihar.org/researchjournals/CTM.Vol1.7pdf.
+www. digital. Com
+www. google.com
+www. primagames.com
+www. scentware.com
+www. wikipedia.org
+![image](https://github.com/user-attachments/assets/84b901f4-2a80-4c5e-ad0c-35a2c18e7806)
+
    
