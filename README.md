@@ -22,3 +22,7 @@ Lloyd Bellenson" experts in bioinformatics and genomics, started from the follow
 
 ![image](https://github.com/user-attachments/assets/5b9e0da4-dea4-4915-8255-291c5f61e805)
 
+IN 1999, digiScent developed a computer peripheral device called ismell, which was designed to emit a smell when a user visited a web site or opened an email.  
+The device contain a cartridge with 128 “primary odors”, which could be mixed to replicate natural and man-made odors. 
+
+
