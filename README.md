@@ -165,6 +165,4 @@ www. google.com
 www. primagames.com
 www. scentware.com
 www. wikipedia.org
-![image](https://github.com/user-attachments/assets/84b901f4-2a80-4c5e-ad0c-35a2c18e7806)
-
    
