@@ -20,13 +20,62 @@ ORIGIN OF DIGITAL SCENT TECHNOLOGY
 The common ingredient found in perfume are beyzel, alcohol, ethanol, ethylacetate, bsenzaldehyde, camhor, formaldehyde, methylene chloride and limonene.  "Dexter Smith and Joel
 Lloyd Bellenson" experts in bioinformatics and genomics, started from the following idea: if we can find the essence of a biological smell and build a profile, we can digitalize and broadcast it."  
 
+IN 1999, digiScent developed a computer peripheral device called ismell, which was designed to emit a smell when a user visited a web site or opened an email.  
+The device contain a cartridge with 128 “primary odors”, which could be mixed to replicate natural and man-made odors. 
+
+
 
 
 
 
 ![image](https://github.com/user-attachments/assets/5b9e0da4-dea4-4915-8255-291c5f61e805)
 
-IN 1999, digiScent developed a computer peripheral device called ismell, which was designed to emit a smell when a user visited a web site or opened an email.  
-The device contain a cartridge with 128 “primary odors”, which could be mixed to replicate natural and man-made odors. 
+PRINCIPAL OF E-NOSE
+
+E-nose is the fundamental principles of artificial nose that each sensored in the array has different sensitivity. Th epattern of reponse acrros the sensors is distinct from different odors. Different E-nose, use different types of gas sense which forms heart of e-nose. The sensor's response is recorded and delivered to the signal prossecing unit and then it is converted into electronic signal by using a transducer and is processed by using the signal processing unit. Signs of sensing an ordant vapor, array of sensors, pattern recognition and then the smelling(a stage of input, processing and output).
+
+DST SCENTING AND COMMUNICATION
+
+Some primary oudrs have been proposed(DST): musky, putrid, pungent, comphoraceous, ethereal, floral and peppermint just to list a few smells. Digital scent communication entails the following: chemical make up, scnets spectrum, scent index, digitizing, primary odor, detached scent and scent bus communication. 
+
+Synthetic musks and phthalates potentially hazardous components as perfume ingredient.
+
+ADVANTAGES AND DISADVANTAGES OF DST
+
+ADVANTAGES
+
+1. ENHANCED MEMORY RETENTION
+2. IMPROVED ENGAGEMENT
+3. ACCESSIBILITY
+4. COST EFFECTIVENESS  
+
+DISADVANTAGES
+
+1. LACK OF AVAILABILITY
+2. HEALTH RISK
+3. LEARNING EXPERIENCE DISRUPTION
+4. PRICE
+
+OPPORTUNITY FOR DST
+
+Triggers
+
+1. IBM Internet DST
+2. DST iSmell and E-Nose Technology
+3. Chemorespective
+
+Players
+
+1. Google                         
+2. Amazon
+3. Facebook
+4. Digicel
+5. Instagram
+6. Social Media Apps in General
+7. 4G and 5G
+
+Drivers
+Digital scent technology and the availability of scenting with computer
+
 
 
