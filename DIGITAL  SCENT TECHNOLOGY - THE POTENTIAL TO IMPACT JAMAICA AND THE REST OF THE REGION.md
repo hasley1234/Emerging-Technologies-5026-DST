@@ -27,10 +27,6 @@ of market communication that is driven by growing adoption of E-Noses in food in
 rising adoption of compact, portable, and IoT - enabled E-Noses, growing development of E-Nose devices for diagnosing diseases, and inte-
 gration of E-Nose and synthesizers into smartphone homes.
 
-
-
-
-
 The region as well as Jamaica have impact on Digital Scent Technology where the growing adoption of E-Nose in many industries are engaged
 base upon the growth of drivers in the market for immersive technologies in the areas of sensory driven immersion, mixed
 reality headset, virtual auto, concomitand development of business model, increased use of digital environments for communication and 
@@ -47,6 +43,12 @@ participants segmented by the Caribbean region identify the stage of development
 the percentage of the combined Caribbean responses segmented by the status of each project phase.  Approximately 27% of the Caribbean respondents 
 were already working on various project phases.  An average of 41% planned to work on each segment but only 15.6% and 6.5% of developers were ready to
 present the proof-of-concept and final working product.
+
+The impact of DST and immersive technologies involves the following sensory driven immersion, mixed reality headset, virtual audio, haptic display,
+concomitand development of business model, increased use of digital enviroments for communication and education in the COVID 19 pandemic, computer
+game research education and entertainment.  
+
+
 
 
  
