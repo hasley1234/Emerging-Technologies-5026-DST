@@ -131,6 +131,13 @@ The impact of DST and immersive technologies involves the following sensory driv
 concomitand development of business model, increased use of digital enviroments for communication and education in the COVID 19 pandemic, computer
 game research education and entertainment.  
 
+THE IMPACT OF DST AND ITS APPLICATION OF THE REGION
+
+The applications of Digital Scent Technology entailed natural gas odorant concentration detection and flammable limit (safety device), viral
+and bacterial infections and purity also contamination of air. The application possibilities can also be listed as: quality control, odour detection in the
+storage areas, perishables monitors, batch to batch consistency monitoring, detection of bacteria and virus in any given environment, and all cleanliness
+monitoring.
+
 
 
 
