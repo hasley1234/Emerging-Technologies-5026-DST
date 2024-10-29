@@ -15,6 +15,34 @@ well-being.  This discussion will also highlight few issues that will affect Jam
 converging of other technological tools. The use of the Internet, IoT, IoS and E-Nose explain the growing issue that have an impact of our 
 surrounding. The impact of all other technologies is a part of the process of the functionality of Digital Scent Technologies.
 
+The DST Ecosystem impact and the rest of the region involves.
+
+Sensor Manufactures
+
+A.  Amphenol, Siemes, Sensirion, Sciosense, Renesas, Ecosensor, Alphasense and Honeywell
+
+E-Nose Provider
+
+B.  Alpha Mos, Airsense, Sensigent, MUI, E-Nose, and Smart Nanotubes
+
+Distributor
+
+C.  PCA Technologies, Envitech, Bioclear SDN BND, Verulam Scientific Limited
+
+Software & Platform Providers
+
+D.  Arybelle, Plasmior, Noze 
+
+System Integrators
+
+E   Comon Invent, Instrument Solution, and Technology for your Success
+
+End Userss
+
+F.   IBM, Panasonic, KAO, Givandan, and NHK World - Japan
+
+The above are Digital Scent Technology Market by Hardware Device companies that have strong impact on Jamaica and the region.
+
 It is a fact that DST and the observation of symbiotic relationship between the impact of Jamaica and the Caribbean in the future will suffer 
 chemical reaction from technologies of the IoS and E-Nose with the use of other internet services, such as, 3D, 4G, and 5G. I realised that the
 interactionism of 6G is fast becoming a reality and this connecting link is now the primary activator of the multisensory expenses the world 
@@ -22,10 +50,12 @@ will face. DST is an intertwined communication space  on the Internet of Things 
 five scenses, that we utilize seeing, hearing, smelling, tasting and feeling. 
 
 The human computer Technology (HCT) community consider digital olfactory stimulation as a real-life interactionism to be a fundamental step
-in broaden the technology relating to multisensory communication. In the Carbbean, the Digital Scent Technology is manipulated  by the growth
+in broaden the technology relating to communication. In the Carbbean, the Digital Scent Technology is manipulated  by the growth
 of market communication that is driven by growing adoption of E-Noses in food industry for process monitoring, freshness evalulation, and authenticity assessment,
 rising adoption of compact, portable, and IoT - enabled E-Noses, growing development of E-Nose devices for diagnosing diseases, and inte-
 gration of E-Nose and synthesizers into smartphone homes.
+
+In Jamaica
 
 The region as well as Jamaica have impact on Digital Scent Technology where the growing adoption of E-Nose in many industries are engaged
 base upon the growth of drivers in the market for immersive technologies in the areas of sensory driven immersion, mixed
