@@ -1,6 +1,7 @@
 QUESTION :  DISCUSS WHETHER DIGITAL SCENT TECHNOLOGY HAS THE POTENTIAL TO IMPACT JAMAICA AND REST OF THE REGION
 
 ANSWER
+INTRODUCTION
 
 This paper will attempt to provides and give a clear analytical knowledge of Digital Scent Technology through the electronical interface on
 past and present issues for commercial and domestic effect using chemical odors and the impact of the harzardous environment in Jamaica and the
@@ -14,6 +15,8 @@ paper, I will embark upon some practical application aspect of DST which will de
 well-being.  This discussion will also highlight few issues that will affect Jamaica in relation to this scenting of Digital Technologies and the
 converging of other technological tools. The use of the Internet, IoT, IoS and E-Nose explain the growing issue that have an impact of our 
 surrounding. The impact of all other technologies is a part of the process of the functionality of Digital Scent Technologies.
+
+DIGITAL SCENT TECHNOLOGY ESCOSYSTEM IMPACT
 
 The DST Ecosystem impact and the rest of the region involves.
 
@@ -49,11 +52,15 @@ interactionism of 6G is fast becoming a reality and this connecting link is now 
 will face. DST is an intertwined communication space  on the Internet of Things that pave the way for the collective transfer of sharing the
 five scenses, that we utilize seeing, hearing, smelling, tasting and feeling. 
 
+THE HUMAN COMPUTER TECHNOLOGY AND DIGITAL OLFACTORY STIMULATION
+
 The human computer Technology (HCT) community consider digital olfactory stimulation as a real-life interactionism to be a fundamental step
 in broaden the technology relating to communication. In the Carbbean, the Digital Scent Technology is manipulated  by the growth
 of market communication that is driven by growing adoption of E-Noses in food industry for process monitoring, freshness evalulation, and authenticity assessment,
 rising adoption of compact, portable, and IoT - enabled E-Noses, growing development of E-Nose devices for diagnosing diseases, and inte-
 gration of E-Nose and synthesizers into smartphone homes.
+
+THE IMPACT OF JAMAICA AND THE REST OF THE REGION 
 
 In Jamaica and the rest of the region is dependent on the usefulness of a technology that will define its fate.  Among the potential applications of DST are:
 
@@ -87,6 +94,8 @@ reality.  the  headset, virtual auto, concomitand development of business model,
 education in the Covid 19 pandemic encounter and also in avenue where computer game where research for education and entertainment involvement.
 The industries are Amphenol, Sensirion, Renesas, Alphasense, Sciosense, Ecosensor, and Honeywell.
 
+THE FOUNDATIONAL PRINCIPLES AND MECHANISM BEHIND DST IMPACT ON JAMAICA AND THE CARIBBEAN REGION
+
 The foundational principles and mechanism behind DST have impact on Jamaica and the Caribbean region and also on the rest of the world already in 
 place, and ongoing research is refining the technology.  This process is complex, but it can be broken down in three basic steps:
 
@@ -104,6 +113,8 @@ place, and ongoing research is refining the technology.  This process is complex
      
      This is where the digital signature is decoded, and the scent is recreated using a device known as a "scent sythesizer."  These devices use
      a mixture of chemicals to reproduce the scent based on its digital signature.
+
+JAMAICA AND REST OF THE REGION ON E-NOSE OBJECTIVE ANALYSIS TO BE COMPARED WITH STATISTICAL INSPECTION
 
 In Jamaica E-Noses objective analysis to be compared to regions are based on inspection, and early deterioration of spoilage and contamination,
 improved shelf-life management, and streamlined production control.  The following islands in the region suffer similar fate, such as,, Cucacao,
