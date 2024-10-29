@@ -59,19 +59,27 @@ In Jamaica and the rest of the region is dependent on the usefulness of a techno
 
 1.  Virtual Reality Enhancement
 
-   Virtual reality is already changing entertainment, but DST can make Virtual Environments more immersive by adding the dimension of smell.  
-   The acrid smell of gunsmoke in a battlefield simulation of the smell of oil and rubber in a racing game could greatly enhance the VR gaming 
-   experience.
+      Virtual reality is already changing entertainment, but DST can make Virtual Environments more immersive by adding the dimension of smell.  
+      The acrid smell of gunsmoke in a battlefield simulation of the smell of oil and rubber in a racing game could greatly enhance the VR gaming 
+      experience.
 
 2. Therapeutic Uses
 
-    By creating specific scents, DST could help treat conditions like anxiety and depression, enhancing the effectiveness of therapeutic practices.
+       By creating specific scents, DST could help treat conditions like anxiety and depression, enhancing the effectiveness of therapeutic practices.
 
 3.  Culinary Experiences
 
-    Imagine smelling a dish before trying out a recipe or ordering food online.  DST could revolutionize the way we experience food digitall.
+       Imagine smelling a dish before trying out a recipe or ordering food online.  DST could revolutionize the way we experience food digitall.
 
-4.  
+4.  Evironmental Simulation
+
+       DST could be used in simulations to train individuals for jobs in specific environments, like firefighters or perfumers, by recreating the scents
+       associated with those environments.
+
+5.  Ambience
+
+       Like the scent dispensers in restrooms, synthesizer could be programmed to release your favoride scent into the air to add a personalized touch
+       to your living or workinng space.
 
 The region as well as Jamaica have impact on Digital Scent Technology where the growing adoption of E-Nose in many industries are engaged
 base upon the growth of drivers in the market for immersive technologies in the areas of sensory driven immersion, mixed
