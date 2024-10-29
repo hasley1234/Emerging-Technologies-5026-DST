@@ -87,6 +87,24 @@ reality.  the  headset, virtual auto, concomitand development of business model,
 education in the Covid 19 pandemic encounter and also in avenue where computer game where research for education and entertainment involvement.
 The industries are Amphenol, Sensirion, Renesas, Alphasense, Sciosense, Ecosensor, and Honeywell.
 
+The foundational principles and mechanism behind DST have impact on Jamaica and the Caribbean region and also on the rest of the world already in 
+place, and ongoing research is refining the technology.  This process is complex, but it can be broken down in three basic steps:
+
+1.  Scent Creation
+
+    This is the initial stage where a specific identified case is created.  It involves using various chemical compoundents to mimic the desired
+    natural odors.
+
+2.  Scent Digitization
+
+     Once the scent is created, it is digitized.  This involves creating a unique digital signature for each scent, a specific combination of data
+     representing the unique smell.
+
+3.   Scent Reproduction
+     
+     This is where the digital signature is decoded, and the scent is recreated using a device known as a "scent sythesizer."  These devices use
+     a mixture of chemicals to reproduce the scent based on its digital signature.
+
 In Jamaica E-Noses objective analysis to be compared to regions are based on inspection, and early deterioration of spoilage and contamination,
 improved shelf-life management, and streamlined production control.  The following islands in the region suffer similar fate, such as,, Cucacao,
 Barbados, Cuba , Dominica, Dominican Republic, Grenada, Guadeloupe, Haiti, Puerto Rico, Saint Kitts and Navis, Suriname, Jamaica, Trinidad and
