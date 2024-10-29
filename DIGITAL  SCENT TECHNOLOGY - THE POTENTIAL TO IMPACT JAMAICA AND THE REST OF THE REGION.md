@@ -55,7 +55,11 @@ of market communication that is driven by growing adoption of E-Noses in food in
 rising adoption of compact, portable, and IoT - enabled E-Noses, growing development of E-Nose devices for diagnosing diseases, and inte-
 gration of E-Nose and synthesizers into smartphone homes.
 
-In Jamaica
+In Jamaica and the rest of the region is dependent on the usefulness of a technology that will define its fate.  Among the potential applications of DST are:
+
+1.  Virtual Reality Enhancement
+
+   V
 
 The region as well as Jamaica have impact on Digital Scent Technology where the growing adoption of E-Nose in many industries are engaged
 base upon the growth of drivers in the market for immersive technologies in the areas of sensory driven immersion, mixed
