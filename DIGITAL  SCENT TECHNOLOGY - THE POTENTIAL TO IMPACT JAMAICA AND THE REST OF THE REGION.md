@@ -59,11 +59,23 @@ In Jamaica and the rest of the region is dependent on the usefulness of a techno
 
 1.  Virtual Reality Enhancement
 
-   V
+   Virtual reality is already changing entertainment, but DST can make Virtual Environments more immersive by adding the dimension of smell.  
+   The acrid smell of gunsmoke in a battlefield simulation of the smell of oil and rubber in a racing game could greatly enhance the VR gaming 
+   experience.
+
+2. Therapeutic Uses
+
+    By creating specific scents, DST could help treat conditions like anxiety and depression, enhancing the effectiveness of therapeutic practices.
+
+3.  Culinary Experiences
+
+    Imagine smelling a dish before trying out a recipe or ordering food online.  DST could revolutionize the way we experience food digitall.
+
+4.  
 
 The region as well as Jamaica have impact on Digital Scent Technology where the growing adoption of E-Nose in many industries are engaged
 base upon the growth of drivers in the market for immersive technologies in the areas of sensory driven immersion, mixed
-reality headset, virtual auto, concomitand development of business model, increased use of digital environments for communication and 
+reality.  the  headset, virtual auto, concomitand development of business model, increased use of digital environments for communication and 
 education in the Covid 19 pandemic encounter and also in avenue where computer game where research for education and entertainment involvement.
 The industries are Amphenol, Sensirion, Renesas, Alphasense, Sciosense, Ecosensor, and Honeywell.
 
