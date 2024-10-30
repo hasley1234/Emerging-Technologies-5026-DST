@@ -185,7 +185,8 @@ to be reflected as Digital Scent Technology (DST).  Digital Scent Technology aim
 computing terms, this is the forgotten sense. But a fledging technology is promising to change that.  Let's take a looked at DST and see
 if it comes up smelling like roses or if the whole technology smell a bit fishy.
 
-In Jamaica as well as the region, synthetic musks and plithalates are potentially hazardous compounds which are also used as perfume ingredient.  
+In Jamaica as well as the region, synthetic musks and plithalates are potentially hazardous compounds which are also used as perfume ingredient. 
+
 
 
 
