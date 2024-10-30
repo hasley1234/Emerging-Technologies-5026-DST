@@ -192,7 +192,7 @@ computing terms, this is the forgotten sense. But a fledging technology is promi
 if it comes up smelling like roses or if the whole technology smell a bit fishy.
 
 In Jamaica as well as the region, synthetic musks and plithalates are potentially hazardous compounds which are also used as perfume ingredient. Will
-it ever possible to transfer scents digitally?  It could probably be done, but human need some sort of Virtual Reality equivalent technology that
+it ever possible to transfer scents digitally?  It could probably be done, but human need some sort of Virtual Reality equivalent technology thatk
 activates the brain areas that process smell, as well as a smell scanner thaat can convert the odor's into electrical that can be transmitted to this
 Virtual Reality Technology. Although algorithms with the use of parity bits are prevalent among DST this program needs to be develop to satisfy the
 growth and development of the market.
@@ -205,7 +205,13 @@ is used to collect a GC/MS analysis.
 THE IMPACT OF LIMITED ADOPTION DST IN JAMAICA AND THE REST OF THE REGION
 
 Limited adoption due to high cost of digital scent technology.  The high cost of digital scent technology serves as a significant obstacle to its market
-growth, participarly offected accessibility for small and medium sized businesses (SMBS) and individual consumers.
+growth, participarly offected accessibility for small and medium sized businesses (SMBS) and individual consumers. The limitation results in a narrowed 
+customer base, hindering industry expansion.  The expense associated with the technology holds back innovation, discouraging research and developpment
+efforts, especially among smaller players and research institution.  Even larger companies may delay adoption due to a high cost benefit ratio, prioriting
+investments in more establishment technologies.  Market segmentation becomes apparent, with digital scent technology accessible primarily to high-end luxury
+brands or specific industries line healthcare, further limited its impact.
+
+
 
 
 
