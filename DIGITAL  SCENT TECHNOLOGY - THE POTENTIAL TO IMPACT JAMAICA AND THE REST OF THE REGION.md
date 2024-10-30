@@ -185,7 +185,17 @@ to be reflected as Digital Scent Technology (DST).  Digital Scent Technology aim
 computing terms, this is the forgotten sense. But a fledging technology is promising to change that.  Let's take a looked at DST and see
 if it comes up smelling like roses or if the whole technology smell a bit fishy.
 
-In Jamaica as well as the region, synthetic musks and plithalates are potentially hazardous compounds which are also used as perfume ingredient. 
+In Jamaica as well as the region, synthetic musks and plithalates are potentially hazardous compounds which are also used as perfume ingredient. Will
+it ever possible to transfer scents digitally?  It could probably be done, but human need some sort of Virtual Reality equivalent technology that
+activates the brain areas that process smell, as well as a smell scanner thaat can convert the odor's into electrical that can be transmitted to this
+Virtual Reality Technology.
+
+It is possible to digital smell.  Smell can be deteched as gas or vapour or liquid then one can characterise that gas/liquid chemically by GC-NIS
+spectrum and perhaps then it could be digital to store the 'Gas' pattern in the spectrum data.  One can use an evacuated super clean glass bulb called
+an 'Odor Bulb' to capture some of the air for later analysis.  Usually, the odorant is at too low a concentration for direct detection when this method
+is used to collect a GC/MS analysis.
+
+
 
 
 
