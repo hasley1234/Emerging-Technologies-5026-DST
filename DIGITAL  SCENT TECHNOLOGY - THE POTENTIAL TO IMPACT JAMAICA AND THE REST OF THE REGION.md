@@ -240,7 +240,14 @@ adoption. The Bio-sensing is one of the applications that is being used extensiv
 industry to recognize and track the psychological processes inside the body.  It is used for the critical secondary and tertiary analysis of the physiological
 mechanisms.  
 
-CONCLUSION
+CONCLUSION  
+
+If we look ahead into the impact of Digital Scent Technology we can enjoy improvements as it depends on accuracy and the development of smaller, cheaper, and
+more practical devices are required if DST is to thrive. The expansion of digitizable scent libraries will bse crucial in broadening its uptake.  Jamaica and
+the region must also consider the societal implications, our experiences, and our industries?  The trajectory of DST will shape our life forever.  DST stillhas a long 
+road to travel to join sight and vision as part of the digital experience.  The technology exist, and only time will tell of the streaming video of the fluture is
+available in everyday technologies "smell-o-vision" or not.  Certainly, the list of potential applications will act as a driving force, and as a 'MAINSTREAM" visions
+will be of limited use.  This is a path that many everyday technologies have already successfully trod.  The future smells promising with E-Nose is here to stay.
 
 
 
