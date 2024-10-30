@@ -76,7 +76,7 @@ In Jamaica and the rest of the region is dependent on the usefulness of a techno
 
 3.  Culinary Experiences
 
-       Imagine smelling a dish before trying out a recipe or ordering food online.  DST could revolutionize the way we experience food digitall.
+       Imagine smelling a dish before trying out a recipe or ordering food online.  DST could revolutionize the way we experience food digitally.
 
 4.  Evironmental Simulation
 
@@ -86,7 +86,9 @@ In Jamaica and the rest of the region is dependent on the usefulness of a techno
 5.  Ambience
 
        Like the scent dispensers in restrooms, synthesizer could be programmed to release your favoride scent into the air to add a personalized touch
-       to your living or workinng space.
+       to your living or working space. The olfactory of dirty clothes, unkept homes and garbage areas give a offset odor that are not wellcome but tolerated
+       by all humanity in Jamaica and the rest of the world. Poor hygiene is a distortion of DST reflection that gives off contamination and bad odor.  Ill-health may
+       ocurrs and the disparity will become a global disease or pandemic.
 
 The region as well as Jamaica have impact on Digital Scent Technology where the growing adoption of E-Nose in many industries are engaged
 base upon the growth of drivers in the market for immersive technologies in the areas of sensory driven immersion, mixed
