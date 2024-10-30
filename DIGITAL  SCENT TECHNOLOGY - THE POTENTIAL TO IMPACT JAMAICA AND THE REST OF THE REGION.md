@@ -248,8 +248,38 @@ the region must also consider the societal implications, our experiences, and ou
 road to travel to join sight and vision as part of the digital experience.  The technology exist, and only time will tell of the streaming video of the fluture is
 available in everyday technologies "smell-o-vision" or not.  Certainly, the list of potential applications will act as a driving force, and as a 'MAINSTREAM" visions
 will be of limited use.  This is a path that many everyday technologies have already successfully trod.  The future smells promising with E-Nose is here to stay.
+Smell has strong power over human beings. https://www.scribd.com/document/iSmell Technology.
+
 
 REFERENCES
+
+B. Jebina Priscilla, M. Anandhavalli, "Digital Smell Technology", International Journal of Emerging Technology in Computer Science and Electronics.
+
+Jasleen Kaur, "A Review Paper: Smell on Interest (DIGITAL SCENT)
+
+Jasleen Kaur, "A Review Paper: Smell on Interest "Digital Smell Technology", International Journal for Advance Research
+
+Ranasinghue, Nimesha, Digital Taste and Smell Communication
+
+Shriram, Vasuden PhD, What is Digital Scent Technology?
+
+viswadhara Meenakshi V.J. Sowmya. K. "Ester: experiencing smell through electronic reality "Consumer  Electronics".
+                                          
+https://www.gyanvihar.org/researchjournals/CTMVoll.7pdf.www
+
+www.digital.com 
+
+www.google.com
+
+www.primagame.com
+
+www.scentware.com
+
+www.wikipedia.org
+
+
+ 
+
 
 
 
