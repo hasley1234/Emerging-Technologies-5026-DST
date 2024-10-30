@@ -78,7 +78,7 @@ In Jamaica and the rest of the region is dependent on the usefulness of a techno
 
       Virtual reality is already changing entertainment, but DST can make Virtual Environments more immersive by adding the dimension of smell.  
       The acrid smell of gunsmoke in a battlefield simulation of the smell of oil and rubber in a racing game could greatly enhance the VR gaming 
-      experience. see Vis
+      experience. see Viswadhara Meenakshi V.J. Sowmya. K. "Ester: experiencing smell through electronic reality "consumers electronic"
 
 2. Therapeutic Uses
 
@@ -98,7 +98,7 @@ In Jamaica and the rest of the region is dependent on the usefulness of a techno
        Like the scent dispensers in restrooms, synthesizer could be programmed to release your favoride scent into the air to add a personalized touch
        to your living or working space. The olfactory of dirty clothes, unkept homes and garbage areas give a offset odor that are not wellcome but tolerated
        by all humanity in Jamaica and the rest of the world. Poor hygiene is a distortion of DST reflection that gives off contamination and bad odor.  Ill-health may
-       ocurrs and the disparity will become a global disease or pandemic.
+       ocurrs and the disparity will become a global disease or pandemic. see https://www.scribd.com/document/iSmell Technology.
 
 The region as well as Jamaica have impact on Digital Scent Technology where the growing adoption of E-Nose in many industries are engaged
 base upon the growth of drivers in the market for immersive technologies in the areas of sensory driven immersion, and mixed
@@ -106,7 +106,7 @@ reality.  the  headset, virtual auto, concomitand development of business model,
 education in the Covid 19 pandemic encounter and also in avenue where computer games where research for education and entertainment involvement.
 The industries are Amphenol, Sensirion, Renesas, Alphasense, Sciosense, Ecosensor, and Honeywell. These are foreign company industies that provide the 
 odorant which may use to help protect humanity from ill-health distortion in areas of chemical or themally usage of analysis maybe interactive with the
-rest of the world.
+rest of the world. see www.wikipedia.org
 
 THE FOUNDATIONAL PRINCIPLES AND MECHANISM BEHIND DST IMPACT ON JAMAICA AND THE CARIBBEAN REGION
 
