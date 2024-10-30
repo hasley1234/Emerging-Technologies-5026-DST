@@ -140,7 +140,7 @@ Jamaica and Trinidad and Tobago, representing approximately 73% of respondents. 
 participants segmented by the Caribbean region identify the stage of development for AR, VR or MR idea. The survey of the DST illustrated to work on
 the percentage of the combined Caribbean responses segmented by the status of each project phase.  Approximately 27% of the Caribbean respondents 
 were already working on various project phases.  An average of 41% planned to work on each segment but only 15.6% and 6.5% of developers were ready to
-present the proof-of-concept and final working product. 
+present the proof-of-concept and final working product. see wikipedia.org, www.digital.com, www.scentware.com, www.digiscent.com and www.google.com
 
 The impact of DST and immersive technologies involves the following sensory driven immersion, mixed reality headset, virtual audio, haptic display,
 concomitand development of business model, increased use of digital enviroments for communication and education in the COVID 19 pandemic, computer
