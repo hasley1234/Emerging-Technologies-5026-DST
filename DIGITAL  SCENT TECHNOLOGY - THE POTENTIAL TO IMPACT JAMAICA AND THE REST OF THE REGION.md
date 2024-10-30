@@ -165,8 +165,15 @@ threat detection capabilities.
 
 The market expansion is fueled by collaborations between E-Nose developers, governmen agencies, and security firms, opening avenues for new
 markets and funding.  Successful deployments and international adoption can furthers drive market growth.  Adaption military grade E-Nose 
-technology for civilian application adds a layer of diversification, spanning environmental monitoring, food safety, and medical diagnostics.
+technology for civilian application adds a layer of diversification, spanning environmental monitoring, food safety, and medical diagnostics.t
 
+Jamaica and the rest of the region have an impact on Digitial Scent Technology market faces significant challenges stemming from the potential
+health, impact of hazardous chemicals in scent synthesizers.  Public concern and regulatory hurdles hinders widerspread adoption, including 
+customer apprehension and stringent regulations. Health risks and liability's concern, such as, uncertain short term and long term health effects
+
+Additionally, limitations in market reach and ethical considerations, such as concerns about privacy and authonomy, restrict the technology's
+acceptance.  To overcome challenges, the industry must in research, implement safety standards, promote transparency, amd fpcus on ethical
+application.  By doing so, the digital scent technology industry can pave the way for a more sustainable and widely accepted future.
 
 
 
