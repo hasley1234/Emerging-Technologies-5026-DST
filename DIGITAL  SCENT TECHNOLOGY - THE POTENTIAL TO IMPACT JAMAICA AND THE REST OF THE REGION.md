@@ -224,6 +224,13 @@ THE MAJOR PLAYERS OF DIGITAL SCENT TECHNOLOGY THAT HAVE IMPACT ON JAMAICA AND TH
 The major vendors in the Digital Scent Technology companies including the following: SiOSemen, Amphenol, Senirion AG, Heneywell, Renesas Electronic Corporation,
 Envirosuite Limited, Alpha MOS, Electronic Sensors Technology, Aromajoin Corporation, Figaro Engineering Inc, Bosch Sensortec GmbH, Alphasense, and Figaro Engineering.
 
+THE IMPACT DST HAVE ON THE REGION MARKET GROWTH AND INFLUENCE ON THE CARIBBEAN PEOPLE
+
+The componelnts of skin emissions, exhaled breath, and urine odor have created attention as diagnostic biomarkers of diseases and disorders, including liver disease, 
+lung cancer,, asthma, cystic fibrosis, diabets,Volatile organic compounds are the major target for e-noses in medical diagnosi, such as a ammonia in individuals with 
+liver disease, acetone for patients with diabetes, and alkanes in patients with lung cancer, pentane in patients with asthma.  The e-nose technology has the potential
+to be operated for disgnosis.
+
 
  
 
