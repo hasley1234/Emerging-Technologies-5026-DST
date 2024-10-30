@@ -211,6 +211,13 @@ efforts, especially among smaller players and research institution.  Even larger
 investments in more establishment technologies.  Market segmentation becomes apparent, with digital scent technology accessible primarily to high-end luxury
 brands or specific industries line healthcare, further limited its impact.
 
+In the Caribbean and the rest of the world, scaling challenges arise, as the elevated equipment costs make widespead deployment in large spaces or across 
+multiple locations challenging.  
+
+Despite these obstacles, ongoing efforts in research and development aim to reduce costs through miniaturization and process optimization.  Alternative
+business models, such as subscription-based services and targeted applications with clear returns on investment, are emerging strategies to overcome the
+cost barrier and facilitate broader adoption of digital scent technology across platform and diverse industries and consumer applications.
+
 
 
 
