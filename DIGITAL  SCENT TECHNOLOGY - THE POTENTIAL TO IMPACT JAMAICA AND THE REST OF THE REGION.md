@@ -195,6 +195,15 @@ spectrum and perhaps then it could be digital to store the 'Gas' pattern in the 
 an 'Odor Bulb' to capture some of the air for later analysis.  Usually, the odorant is at too low a concentration for direct detection when this method
 is used to collect a GC/MS analysis.
 
+THE IMPACT OF LIMITED ADOPTION DST IN JAMAICA AND THE REST OF THE REGION
+
+Limited adoption due to high cost of digital scent technology.  The high cost of digital scent technology serves as a significant obstacle to its market
+growth, participarly offected accessibility for small and medium sized businesses (SMBS) and individual consumers.
+
+
+
+
+
 
 
 
