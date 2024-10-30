@@ -217,7 +217,9 @@ multiple locations challenging.
 
 Despite these obstacles, ongoing efforts in research and development aim to reduce costs through miniaturization and process optimization.  Alternative
 business models, such as subscription-based services and targeted applications with clear returns on investment, are emerging strategies to overcome the
-cost barrier and facilitate broader adoption of digital scent technology across platform and diverse industries and consumer applications.
+cost barrier and facilitate broader adoption of digital scent technology across platform and diverse industries and consumer applications. 
+
+
 
 
 
