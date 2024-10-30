@@ -21,9 +21,8 @@ ORIGIN OF DIGITAL SCENT TECHNOLOGY
 
 The common ingredient found in perfume ethanol, alcohol, some chloride substances was explained in a article by Dexter Smith and Joel Belleson.
 In 1999, digiScent developed a computer peripheral device, iSmell, which was designed to emit a smell when a user visited a web site or opened an 
-email.  The device contain a cartridge with 128 "primary odors"', which could be mixed to replicate nature and man made odors.  see "B. Jebina Priscilla,
-and M. Anandhavalli, 'Digital Smell Technology'. International Journal."
-
+email.  The device contain a cartridge with 128 "primary odors"', which could be mixed to replicate nature and man made odors.  see B. Jebina Priscilla,
+and M. Anandhavalli, 'Digital Smell Technology'. International Journal.
 
 DIGITAL SCENT TECHNOLOGY ESCOSYSTEM IMPACT
 
@@ -59,8 +58,8 @@ It is a fact that DST and the observation of symbiotic relationship between the 
 chemical reaction from technologies of the IoS and E-Nose with the use of other internet services, such as, 3D, 4G, and 5G. I realised that the
 interactionism of 6G is fast becoming a reality and this connecting link is now the primary activator of the multisensory expenses the world 
 will face. DST is an intertwined communication space  on the Internet of Things that pave the way for the collective transfer of sharing the
-five scenses, that we utilize seeing, hearing, smelling, tasting and feeling. see "Jasleen Kaur,'A review paper: Smell on Internet (DIGITAL SCENT)',
-International Journal for Advance Research"
+five scenses, that we utilize seeing, hearing, smelling, tasting and feeling. see Jasleen Kaur,'A review paper: Smell on Internet (DIGITAL SCENT)',
+International Journal for Advance Research.
 
 THE HUMAN COMPUTER TECHNOLOGY AND DIGITAL OLFACTORY STIMULATION
 
