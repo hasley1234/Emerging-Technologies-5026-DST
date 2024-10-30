@@ -240,6 +240,8 @@ adoption. The Bio-sensing is one of the applications that is being used extensiv
 industry to recognize and track the psychological processes inside the body.  It is used for the critical secondary and tertiary analysis of the physiological
 mechanisms.  
 
+CONCLUSION
+
 
 
 
