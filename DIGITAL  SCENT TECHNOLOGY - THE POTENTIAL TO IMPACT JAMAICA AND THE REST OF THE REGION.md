@@ -8,7 +8,7 @@ This paper will attempt to provides and give a clear analytical knowledge of Dig
 past and present issues for commercial and domestic effect using chemical odors and the impact of the harzardous environment in Jamaica and the
 rest of the region.  I will discuss few matters that affect our nation and the general Caribbean, North and South Americans and the rest of the
 world. DST will have an impact on our life forever.  Jamaica is affected with DST impact in the following ways: education, music, movie,
-entertainment, video, gaming, health, and many other ways we all use technologies and the internet.
+entertainment, video, gaming, health, and many other ways we all use technologies and the internet. www.digiscent.com
 
 Jamaica as well as the rest of the world encountered DST smelling of chemical reaction and psychological impasse that disturb our emotional
 pattern and senses.  The Caribbean region is a part of a global village and the spirit of scenting and smelling is a worldwide issue. In this
@@ -140,18 +140,18 @@ Jamaica and Trinidad and Tobago, representing approximately 73% of respondents. 
 participants segmented by the Caribbean region identify the stage of development for AR, VR or MR idea. The survey of the DST illustrated to work on
 the percentage of the combined Caribbean responses segmented by the status of each project phase.  Approximately 27% of the Caribbean respondents 
 were already working on various project phases.  An average of 41% planned to work on each segment but only 15.6% and 6.5% of developers were ready to
-present the proof-of-concept and final working product.
+present the proof-of-concept and final working product. 
 
 The impact of DST and immersive technologies involves the following sensory driven immersion, mixed reality headset, virtual audio, haptic display,
 concomitand development of business model, increased use of digital enviroments for communication and education in the COVID 19 pandemic, computer
-game research education and entertainment.  
+game research education and entertainment.  see www.digiScent.org
 
 THE IMPACT OF DST AND ITS APPLICATION OF THE REGION
 
 The applications of Digital Scent Technology entailed natural gas odorant concentration detection and flammable limit (safety device), viral
 and bacterial infections and purity also contamination of air. The application possibilities can also be listed as: quality control, odor detection in the
 storage areas, perishables monitors, batch to batch consistency monitoring, detection of bacteria and virus in any given environment, and all cleanliness
-monitoring.
+monitoring. www.scentware.com
 
 JAMAICA AND THE REST OF THE WORLD INVOLVEMENT WITH OLFACTORY OR OLFACTORMETER
 
@@ -159,17 +159,17 @@ The Olfactory or Olfaactormeter entails the following: i. use to measure odor di
 iii. intensify measurement which is an odorous gas is used as a baseline for comparison, and iv. study insect behaviour in presence of olfactory stimutus.
 
 DST smell technology is just a technology which has been failing, every time - it failed and allergly is all reported.  DST smell technology in education
-is an ever learning process.
+is an ever learning process. www.scentware.com
 
 THE ADVANTAGES AND THE DISADVANTAGES OF DIGITAL SCENT TECHNOLOGY ON THE IMPACT OF JAMAICA AND THE REST OF THE WORLD
 
 ADVANTAGES
 
-i.  Enhanced memory retention, ii. improved engagement, iii. accessibility and iii. cost effectiveness.
+i.  Enhanced memory retention, ii. improved engagement, iii. accessibility and iii. cost effectiveness. see www.digiscent.com
 
 DISADVANTAGES
 
-i.  Lack of availability, ii. health risk, iii. learning experience disruption and iv. price
+i.  Lack of availability, ii. health risk, iii. learning experience disruption and iv. price see www.digiscent.com
 
 THE OPPORTUNITIES OF JAMAICA AND THE REST OF THE WORLD HAVE AN IMPACT TO DETECT EXPLOSIVE IN VARIOUS PLACES INCLUDED MILITARY CHECKPOINT
 
@@ -177,24 +177,26 @@ The integration of E-noses in security and military sectors offers lucrative opp
 heightened demand for explosive detection in airports, border crossings, and military checkpoints, along with improved identification of
 chemical warfare agent and narcotics positions.  E-Nose devices as efficient alternatives to traditional methods.  Technological, advancements
 such as miniaturization and portability enhance deployment flexibility, while multi-sensor platforms and real time monitoring strengthen and
-threat detection capabilities.
+threat detection capabilities. see jasleen Kaur, "A Review Paper: Smell on Interest (DIGITAL SCENT)
 
 The market expansion is fueled by collaborations between E-Nose developers, government agencies, and security firms, opening avenues for new
 markets and funding.  Successful deployments and international adoption can further drive market growth.  Adaption military grade E-Nose 
 technology for civilian application adds a layer of diversification, spanning environmental monitoring, food safety, and medical diagnostics.
+www.E-Nose.org
 
 Jamaica and the rest of the region have an impact on Digitial Scent Technology market faces significant challenges stemming from the potential
 health, impact of hazardous chemicals in scent synthesizers.  Public concern and regulatory hurdles hinders widerspread adoption, including 
 customer apprehension and stringent regulations. Health risks and liability's concern, such as, uncertain short term and long term health effects.
+www.google.com and www.digiscent.com
 
 Additionally, limitations in marketing research and ethical considerations, such as concerns about privacy and authonomy, restrict the technology's
 acceptance.  To overcome challenges, the industry must in research, implement safety standards, promote transparency, amd focus on ethical
-application.  By doing so, the digital scent technology industry can pave the way for a more sustainable and widely accepted future.
+application.  By doing so, the digital scent technology industry can pave the way for a more sustainable and widely accepted future. see digiscent.com
 
 Artificial Intelligence utilised ChatGPT and Bing Chat may be cause waves, another innovative technology stands out for sheer novelty and potential
 to be reflected as Digital Scent Technology (DST).  Digital Scent Technology aims to introduce the sense of smell into our digital lives.  In
 computing terms, this is the forgotten sense. But a fledging technology is promising to change that.  Let's take a looked at DST and see
-if it comes up smelling like roses or if the whole technology smell a bit fishy.
+if it comes up smelling like roses or if the whole technology smell a bit fishy. see www.scentware.com
 
 In Jamaica as well as the region, synthetic musks and plithalates are potentially hazardous compounds which are also used as perfume ingredient. Will
 it ever possible to transfer scents digitally?  It could probably be done, but human need some sort of Virtual Reality equivalent technology thatk
@@ -205,7 +207,7 @@ growth and development of the market.
 It is possible to digital smell.  Smell can be deteched as gas or vapour or liquid then one can characterise that gas/liquid chemically by GC-NIS
 spectrum and perhaps then it could be digital to store the 'Gas' pattern in the spectrum data.  One can use an evacuated super clean glass bulb called
 an 'Odor Bulb' to capture some of the air for later analysis.  Usually, the odorant is too low a concentration for direct detection when this method
-is used to collect a GC/MS analysis.
+is used to collect a GC/MS analysis. see Shriiram, Vasuden PhD, What is Digital Scent Technology? 
 
 THE IMPACT OF LIMITED ADOPTION DST IN JAMAICA AND THE REST OF THE REGION
 
@@ -214,19 +216,20 @@ growth, participarly offected accessibility for small and medium sized businesse
 customer base, hindering industry expansion.  The expense associated with the technology holds back innovation, discouraging research and developpment
 efforts, especially among smaller players and research institution.  Even larger companies may delay adoption due to a high cost benefit ratio, prioriting
 investments in more establishment technologies.  Market segmentation becomes apparent, with digital scent technology accessible primarily to high-end luxury
-brands or specific industries line healthcare, further limited its impact.
+brands or specific industries line healthcare, further limited its impact.  see www.digital.com
 
 In the Caribbean and the rest of the world, scaling challenges arise, as the elevated equipment costs make widespead deployment in large spacTes or across 
 multiple locations challenging.  
 
 Despite these obstacles, ongoing efforts in research and development aim to reduce costs through miniaturization and process optimization.  Alternative
 business models, such as subscription-based services and targeted applications with clear returns on investment, are emerging strategies to overcome the
-cost barrier and facilitate broader adoption of digital scent technology across platform and diverse industries and consumer applications. 
+cost barrier and facilitate broader adoption of digital scent technology across platform and diverse industries and consumer applications. see www.digital.com
 
 THE MAJOR PLAYERS OF DIGITAL SCENT TECHNOLOGY THAT HAVE IMPACT ON JAMAICA AND THE REST OF THE WORLD
 
 The major vendors in the Digital Scent Technology companies including the following: SiOSemen, Amphenol, Senirion AG, Heneywell, Renesas Electronic Corporation,
 Envirosuite Limited, Alpha MOS, Electronic Sensors Technology, Aromajoin Corporation, Figaro Engineering Inc, Bosch Sensortec GmbH, Alphasense, and Figaro Engineering.
+see Jasleen Kaur, "A Review Paper; Smell on Internet (Digital Scent), International Journal for Advance Research.
 
 THE IMPACT DST HAVE ON THE REGION MARKET GROWTH AND INFLUENCE ON THE CARIBBEAN PEOPLE
 
@@ -237,12 +240,12 @@ to be operated for disgnosis.
 
 The digital Scent Technology market growth by region in North America and the Caribbean are estimated to account for large share during the forecast period between the
 2017 and 2023.  Increase in healthcare expenditure in the region has propelled the importance on enhancing patient care, diagnosis, and treatment processes.  The 
-integration of digital scent technology and e-nose can offer innovative solutions, particular in healthcare facilities.  
+integration of digital scent technology and e-nose can offer innovative solutions, particular in healthcare facilities. see.wikipedia.org 
 
 The substantial increase in medicine and medicaaid spending further underscores in government's commitment to healthcare, providing opportunities for technologly 
 adoption. The Bio-sensing is one of the applications that is being used extensively in the healthcare industry.  Biosensors are mainly used in the healthcare
 industry to recognize and track the psychological processes inside the body.  It is used for the critical secondary and tertiary analysis of the physiological
-mechanisms.  
+mechanisms. see Viswadhara Meenakshi V.J. Sowmya. K. Ester: Experiencing Smell through electronic reality "consumer electronic" 
 
 CONCLUSION  
 
