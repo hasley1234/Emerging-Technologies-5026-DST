@@ -117,17 +117,17 @@ place, and ongoing research is refining the technology.  This process is complex
 1.  Scent Creation
 
     This is the initial stage where a specific identified case is created.  It involves using various chemical compoundents to mimic the desired
-    natural odors.
+    natural odors. www.iSmell.org
 
 2.  Scent Digitization
 
      Once the scent is created, it is digitized.  This involves creating a unique digital signature for each scent, a specific combination of data
-     representing the unique smell.
+     representing the unique smell. www.iSmell.org
 
 3.   Scent Reproduction
      
      This is where the digital signature is decoded, and the scent is recreated using a device known as a "scent sythesizer."  These devices use
-     a mixture of chemicals to reproduce the scent based on its digital signature.
+     a mixture of chemicals to reproduce the scent based on its digital signature.  www.iSmell.org
 
 JAMAICA AND REST OF THE REGION ON E-NOSE OBJECTIVE ANALYSIS TO BE COMPARED WITH STATISTICAL INSPECTION
 
