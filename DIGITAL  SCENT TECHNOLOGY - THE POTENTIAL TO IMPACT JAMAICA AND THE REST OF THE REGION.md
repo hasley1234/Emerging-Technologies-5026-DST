@@ -15,7 +15,7 @@ pattern and senses.  The Caribbean region is a part of a global village and the 
 paper, I will embark upon some practical application aspects of DST which will deal with digital communication scenting, marketing  and our 
 well-being.  This discussion will also highlight few issues that will affect Jamaica in relation to this scenting of Digital Technologies and the
 converging of other technological tools. The use of the Internet, IoT, IoS and E-Nose explains the growing issue that have an impact of our 
-surrounding. The impact of all other technologies is a part of the process of the functionality of Digital Scent Technologies.
+surrounding. The impact of all other technologies is a part of the process of the functionality of Digital Scent Technologies. www.gyanvihar.org
 
 ORIGIN OF DIGITAL SCENT TECHNOLOGY
 
