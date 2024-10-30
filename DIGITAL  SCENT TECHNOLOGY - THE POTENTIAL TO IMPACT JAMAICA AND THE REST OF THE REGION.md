@@ -78,7 +78,7 @@ In Jamaica and the rest of the region is dependent on the usefulness of a techno
 
       Virtual reality is already changing entertainment, but DST can make Virtual Environments more immersive by adding the dimension of smell.  
       The acrid smell of gunsmoke in a battlefield simulation of the smell of oil and rubber in a racing game could greatly enhance the VR gaming 
-      experience. see 
+      experience. see Vis
 
 2. Therapeutic Uses
 
