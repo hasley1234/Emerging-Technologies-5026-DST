@@ -40,11 +40,11 @@ System Integrators
 
 E   Comon Invent, Instrument Solution, and Technology for your Success
 
-End Userss
+End Users
 
 F.   IBM, Panasonic, KAO, Givandan, and NHK World - Japan
 
-The above are Digital Scent Technology Market by Hardware Device companies that have strong impact on Jamaica and the region.
+The above are Digital Scent Technology Markets by Hardware Device companies that have strong impact on Jamaica and the region.
 
 It is a fact that DST and the observation of symbiotic relationship between the impact of Jamaica and the Caribbean in the future will suffer 
 chemical reaction from technologies of the IoS and E-Nose with the use of other internet services, such as, 3D, 4G, and 5G. I realised that the
@@ -57,8 +57,8 @@ THE HUMAN COMPUTER TECHNOLOGY AND DIGITAL OLFACTORY STIMULATION
 The human computer Technology (HCT) community consider digital olfactory stimulation as a real-life interactionism to be a fundamental step
 in broaden the technology relating to communication. In the Carbbean, the Digital Scent Technology is manipulated  by the growth
 of market communication that is driven by growing adoption of E-Noses in food industry for process monitoring, freshness evalulation, and authenticity assessment,
-rising adoption of compact, portable, and IoT - enabled E-Noses, growing development of E-Nose devices for diagnosing diseases, and inte-
-gration of E-Nose and synthesizers into smartphone homes.
+rising adoption of compact, portable, and IoT - enabled E-Noses, growing development of E-Nose devices for diagnosing diseases, and integration of
+E-Nose and synthesizers into smartphone homes.
 
 THE IMPACT OF JAMAICA AND THE REST OF THE REGION 
 
@@ -180,7 +180,7 @@ to be reflected as Digital Scent Technology (DST).  Digital Scent Technology aim
 computing terms, this is the forgotten sense. But a fledging fledging technology is promising to change that.  Let's take a looked at DST and see
 if it comes up smelling of roses or if the whole technology smell a bit fishy.
 
-
+In Jamaica and the rest, synthetic musks and plithalates are potentially hazardous compounds which are also used as perfume ingredient.  
 
 
 
