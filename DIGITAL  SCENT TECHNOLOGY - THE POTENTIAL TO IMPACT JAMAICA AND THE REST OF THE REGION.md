@@ -31,27 +31,27 @@ The DST Ecosystem impact and the rest of the region involves.
 
 Sensor Manufactures
 
-A.  Amphenol, Siemes, Sensirion, Sciosense, Renesas, Ecosensor, Alphasense and Honeywell
+A.  Amphenol, Siemes, Sensirion, Sciosense, Renesas, Ecosensor, Alphasense and Honeywell wwww.scentware.com
 
 E-Nose Provider
 
-B.  Alpha Mos, Airsense, Sensigent, MUI, E-Nose, and Smart Nanotubes
+B.  Alpha Mos, Airsense, Sensigent, MUI, E-Nose, and Smart Nanotubes  www.wikipedia.org
 
 Distributor
 
-C.  PCA Technologies, Envitech, Bioclear SDN BND, Verulam Scientific Limited
+C.  PCA Technologies, Envitech, Bioclear SDN BND, Verulam Scientific Limited  www.wikipedia.org
 
 Software & Platform Providers
 
-D.  Arybelle, Plasmior, Noze 
+D.  Arybelle, Plasmior, Noze www.e-noze.org
 
 System Integrators
 
-E   Comon Invent, Instrument Solution, and Technology for your Success
+E   Comon Invent, Instrument Solution, and Technology for your Success www.wikipedia.com
 
 End Users
 
-F.   IBM, Panasonic, KAO, Givandan, and NHK World - Japan
+F.   IBM, Panasonic, KAO, Givandan, and NHK World - Japan www.wikipedia.org
 
 The above are Digital Scent Technology Markets by Hardware Device companies that have strong impact on Jamaica and the region.
 
@@ -83,17 +83,19 @@ In Jamaica and the rest of the region is dependent on the usefulness of a techno
 2. Therapeutic Uses
 
        By creating specific scents, DST could help treat conditions like anxiety and depression, enhancing the effectiveness of therapeutic practices.
+       www.google.com
 
-3.  Culinary Experiences
+4.  Culinary Experiences
 
        Imagine smelling a dish before trying out a recipe or ordering food online.  DST could revolutionize the way we experience food digitally.
+       www..primagame.com
 
-4.  Evironmental Simulation
+6.  Evironmental Simulation
 
        DST could be used in simulations to train individuals for jobs in specific environments, like firefighters or perfumers, by recreating the scents
-       associated with those environments.
+       associated with those environments. www.digital.com
 
-5.  Ambience
+7.  Ambience
 
        Like the scent dispensers in restrooms, synthesizer could be programmed to release your favoride scent into the air to add a personalized touch
        to your living or working space. The olfactory of dirty clothes, unkept homes and garbage areas give a offset odor that are not wellcome but tolerated
