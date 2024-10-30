@@ -1,6 +1,7 @@
 QUESTION :  DISCUSS WHETHER DIGITAL SCENT TECHNOLOGY HAS THE POTENTIAL TO IMPACT JAMAICA AND REST OF THE REGION
 
 ANSWER
+
 INTRODUCTION
 
 This paper will attempt to provides and give a clear analytical knowledge of Digital Scent Technology through the electronical interface on
