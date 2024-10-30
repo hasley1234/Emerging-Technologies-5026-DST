@@ -134,9 +134,35 @@ game research education and entertainment.
 THE IMPACT OF DST AND ITS APPLICATION OF THE REGION
 
 The applications of Digital Scent Technology entailed natural gas odorant concentration detection and flammable limit (safety device), viral
-and bacterial infections and purity also contamination of air. The application possibilities can also be listed as: quality control, odour detection in the
+and bacterial infections and purity also contamination of air. The application possibilities can also be listed as: quality control, odor detection in the
 storage areas, perishables monitors, batch to batch consistency monitoring, detection of bacteria and virus in any given environment, and all cleanliness
 monitoring.
+
+JAMAICA AND THE REST OF THE WORLD INVOLVEMENT WITH OLFACTORY OR OLFACTORMETER
+
+The Olfactory or Olfaactormeter entails the following: i. use to measure odor dilution, ii. to gauge the odor detection threshold of substances, 
+iii. intensify measurement which is an odorous gas is used as a baseline for comparison, iv. study insect behaviour in presence of olfactory stimutus.
+
+DST smell technology is just a technology which has been failing, every time - it failed and allergly is all reported.  DST smell technology in education.
+
+THE ADVANTAGES AND THE DISADVANTAGES OF DIGITAL SCENT TECHNOLOGY ON THE IMPACT OF JAMAICA AND THE REST OF THE WORLD
+
+ADVANTAGES
+
+i.  Enhanced memory retention, ii. improved engagement, iii. accessibility and iii. cost effectiveness.
+
+DISADVANTAGES
+
+i.  Lack of availability, ii. health risk, iii. learning experience disruption and iv. price
+
+
+
+
+
+
+
+
+
 
 
 
