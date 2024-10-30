@@ -157,6 +157,7 @@ JAMAICA AND THE REST OF THE WORLD INVOLVEMENT WITH OLFACTORY OR OLFACTORMETER
 
 The Olfactory or Olfaactormeter entails the following: i. use to measure odor dilution, ii. to gauge the odor detection threshold of substances, 
 iii. intensify measurement which is an odorous gas is used as a baseline for comparison, and iv. study insect behaviour in presence of olfactory stimutus.
+Shritam, Vasuden PhD. What is Digital Scent Technology?
 
 DST smell technology is just a technology which has been failing, every time - it failed and allergly is all reported.  DST smell technology in education
 is an ever learning process. www.scentware.com
@@ -175,7 +176,7 @@ THE OPPORTUNITIES OF JAMAICA AND THE REST OF THE WORLD HAVE AN IMPACT TO DETECT 
 
 The integration of E-noses in security and military sectors offers lucrative opportunities for the digital scent technology market.  The 
 heightened demand for explosive detection in airports, border crossings, and military checkpoints, along with improved identification of
-chemical warfare agent and narcotics positions.  E-Nose devices as efficient alternatives to traditional methods.  Technological, advancements
+chemical warfare agent and narcotics positions. www.scentware.com.  E-Nose devices as efficient alternatives to traditional methods.  Technological, advancements
 such as miniaturization and portability enhance deployment flexibility, while multi-sensor platforms and real time monitoring strengthen and
 threat detection capabilities. see jasleen Kaur, "A Review Paper: Smell on Interest (DIGITAL SCENT)
 
@@ -202,7 +203,7 @@ In Jamaica as well as the region, synthetic musks and plithalates are potentiall
 it ever possible to transfer scents digitally?  It could probably be done, but human need some sort of Virtual Reality equivalent technology thatk
 activates the brain areas that process smell, as well as a smell scanner thaat can convert the odor's into electrical that can be transmitted to this
 Virtual Reality Technology. Although algorithms with the use of parity bits are prevalent among DST this program needs to be develop to satisfy the
-growth and development of the market.
+growth and development of the market. www.virturalreality.org and www.scentware.com
 
 It is possible to digital smell.  Smell can be deteched as gas or vapour or liquid then one can characterise that gas/liquid chemically by GC-NIS
 spectrum and perhaps then it could be digital to store the 'Gas' pattern in the spectrum data.  One can use an evacuated super clean glass bulb called
@@ -214,7 +215,7 @@ THE IMPACT OF LIMITED ADOPTION DST IN JAMAICA AND THE REST OF THE REGION
 Limited adoption due to high cost of digital scent technology.  The high cost of digital scent technology serves as a significant obstacle to its market
 growth, participarly offected accessibility for small and medium sized businesses (SMBS) and individual consumers. The limitation results in a narrowed 
 customer base, hindering industry expansion.  The expense associated with the technology holds back innovation, discouraging research and developpment
-efforts, especially among smaller players and research institution.  Even larger companies may delay adoption due to a high cost benefit ratio, prioriting
+efforts, especially among smaller players and research institution. www.digital.com.  Even larger companies may delay adoption due to a high cost benefit ratio, prioriting
 investments in more establishment technologies.  Market segmentation becomes apparent, with digital scent technology accessible primarily to high-end luxury
 brands or specific industries line healthcare, further limited its impact.  see www.digital.com
 
@@ -236,7 +237,7 @@ THE IMPACT DST HAVE ON THE REGION MARKET GROWTH AND INFLUENCE ON THE CARIBBEAN P
 The componelnts of skin emissions, exhaled breath, and urine odor have created attention as diagnostic biomarkers of diseases and disorders, including liver disease, 
 lung cancer,, asthma, cystic fibrosis, diabets,Volatile organic compounds are the major target for e-noses in medical diagnosi, such as a ammonia in individuals with 
 liver disease, acetone for patients with diabetes, and alkanes in patients with lung cancer, pentane in patients with asthma.  The e-nose technology has the potential
-to be operated for disgnosis.
+to be operated for disgnosis. www.digitalmedical.org, www.digitalscent.com, www.google.com and www.wikipedia,com.
 
 The digital Scent Technology market growth by region in North America and the Caribbean are estimated to account for large share during the forecast period between the
 2017 and 2023.  Increase in healthcare expenditure in the region has propelled the importance on enhancing patient care, diagnosis, and treatment processes.  The 
