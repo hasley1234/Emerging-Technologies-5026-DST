@@ -249,6 +249,8 @@ road to travel to join sight and vision as part of the digital experience.  The 
 available in everyday technologies "smell-o-vision" or not.  Certainly, the list of potential applications will act as a driving force, and as a 'MAINSTREAM" visions
 will be of limited use.  This is a path that many everyday technologies have already successfully trod.  The future smells promising with E-Nose is here to stay.
 
+REFERENCES
+
 
 
 
