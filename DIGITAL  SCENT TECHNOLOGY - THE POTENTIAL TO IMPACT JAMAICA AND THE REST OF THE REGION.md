@@ -175,7 +175,7 @@ Additionally, limitations in market reach and ethical considerations, such as co
 acceptance.  To overcome challenges, the industry must in research, implement safety standards, promote transparency, amd fpcus on ethical
 application.  By doing so, the digital scent technology industry can pave the way for a more sustainable and widely accepted future.
 
-Artificial Intelligence utilises ChatG
+Artificial Intelligence utilised ChatG 
 
 
 
