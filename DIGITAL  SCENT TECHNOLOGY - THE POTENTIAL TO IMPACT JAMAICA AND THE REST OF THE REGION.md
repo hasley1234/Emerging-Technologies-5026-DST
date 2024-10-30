@@ -175,7 +175,13 @@ Additionally, limitations in market reach and ethical considerations, such as co
 acceptance.  To overcome challenges, the industry must in research, implement safety standards, promote transparency, amd fpcus on ethical
 application.  By doing so, the digital scent technology industry can pave the way for a more sustainable and widely accepted future.
 
-Artificial Intelligence utilised ChatG 
+Artificial Intelligence utilised ChatG and Bing Chat may be cause waves, another innovative technology stands out for sheer novelty and potential
+to be reflected as Digital Scent Technology (DST).  Digital Scent Technology aims to introduce the sense of smell into our digital lives.  In
+computing terms, this is the forgotten sense. But a fledging fledging technology is promising to change that.  Let's take a looked at DST and see
+if it comes up smelling of roses or if the whole technology smell a bit fishy.
+
+
+
 
 
 
