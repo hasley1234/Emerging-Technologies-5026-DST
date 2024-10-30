@@ -231,6 +231,18 @@ lung cancer,, asthma, cystic fibrosis, diabets,Volatile organic compounds are th
 liver disease, acetone for patients with diabetes, and alkanes in patients with lung cancer, pentane in patients with asthma.  The e-nose technology has the potential
 to be operated for disgnosis.
 
+The digital Scent Technology market growth by region in North America and the Caribbean are estimated to account for large share during the forecast period between the
+2017 and 2023.  Increase in healthcare expenditure in the region has propelled the importance on enhancing patient care, diagnosis, and treatment processes.  The 
+integration of digital scent technology and e-nose can offer innovative solutions, particular in healthcare facilities.  
+
+The substantial increase in medicine and medicaaid spending further underscores in government's commitment to healthcare, providing opportunities for technologly 
+adoption. The Bio-sensing is one of the applications that is being used extensively in the healthcare industry.  Biosensors are mainly used in the healthcare
+industry to recognize and track the psychological processes inside the body.  It is used for the critical secondary and tertiary analysis of the physiological
+mechanisms.  
+
+
+
+
 
  
 
