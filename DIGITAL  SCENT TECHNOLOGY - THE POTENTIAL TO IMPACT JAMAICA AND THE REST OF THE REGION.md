@@ -11,10 +11,16 @@ entertainment, video, gaming, health, and many other ways we all use technologie
 
 Jamaica as well as the rest of the world encountered DST smelling of chemical reaction and psychological impasse that disturb our emotional
 pattern and senses.  The Caribbean region is a part of a global village and the spirit of scenting and smelling is a worldwide issue. In this
-paper, I will embark upon some practical application aspect of DST which will deal with digital communication scenting, marketing  and our 
+paper, I will embark upon some practical application aspects of DST which will deal with digital communication scenting, marketing  and our 
 well-being.  This discussion will also highlight few issues that will affect Jamaica in relation to this scenting of Digital Technologies and the
-converging of other technological tools. The use of the Internet, IoT, IoS and E-Nose explain the growing issue that have an impact of our 
+converging of other technological tools. The use of the Internet, IoT, IoS and E-Nose explains the growing issue that have an impact of our 
 surrounding. The impact of all other technologies is a part of the process of the functionality of Digital Scent Technologies.
+
+ORIGIN OF DIGITAL SCENT TECHNOLOGY
+
+The common ingredient found in perfume ethanol, alcohol, some chloride substances was explained in a article by Dexter Smith and Joel Belleson.
+In 1999, digiScent developed a computer peripheral device, iSmell, which was designed to emit a smell when a user visited a web site or opened an 
+email.  The device contain a cartridge with 128 "primary odors"', which could be mixed to replicate nature and man made odors.
 
 DIGITAL SCENT TECHNOLOGY ESCOSYSTEM IMPACT
 
@@ -145,7 +151,7 @@ monitoring.
 JAMAICA AND THE REST OF THE WORLD INVOLVEMENT WITH OLFACTORY OR OLFACTORMETER
 
 The Olfactory or Olfaactormeter entails the following: i. use to measure odor dilution, ii. to gauge the odor detection threshold of substances, 
-iii. intensify measurement which is an odorous gas is used as a baseline for comparison, iv. study insect behaviour in presence of olfactory stimutus.
+iii. intensify measurement which is an odorous gas is used as a baseline for comparison, and iv. study insect behaviour in presence of olfactory stimutus.
 
 DST smell technology is just a technology which has been failing, every time - it failed and allergly is all reported.  DST smell technology in education
 is an ever learning process.
@@ -165,7 +171,7 @@ THE OPPORTUNITIES OF JAMAICA AND THE REST OF THE WORLD HAVE AN IMPACT TO DETECT 
 The integration of E-noses in security and military sectors offers lucrative opportunities for the digital scent technology market.  The 
 heightened demand for explosive detection in airports, border crossings, and military checkpoints, along with improved identification of
 chemical warfare agent and narcotics positions.  E-Nose devices as efficient alternatives to traditional methods.  Technological, advancements
-such as minialurization and portability enhance deployment flexibility, while multi-sensor platforms and real time monitoring strengthen
+such as miniaturization and portability enhance deployment flexibility, while multi-sensor platforms and real time monitoring strengthen and
 threat detection capabilities.
 
 The market expansion is fueled by collaborations between E-Nose developers, government agencies, and security firms, opening avenues for new
@@ -176,8 +182,8 @@ Jamaica and the rest of the region have an impact on Digitial Scent Technology m
 health, impact of hazardous chemicals in scent synthesizers.  Public concern and regulatory hurdles hinders widerspread adoption, including 
 customer apprehension and stringent regulations. Health risks and liability's concern, such as, uncertain short term and long term health effects.
 
-Additionally, limitations in market reach and ethical considerations, such as concerns about privacy and authonomy, restrict the technology's
-acceptance.  To overcome challenges, the industry must in research, implement safety standards, promote transparency, amd fpcus on ethical
+Additionally, limitations in marketing research and ethical considerations, such as concerns about privacy and authonomy, restrict the technology's
+acceptance.  To overcome challenges, the industry must in research, implement safety standards, promote transparency, amd focus on ethical
 application.  By doing so, the digital scent technology industry can pave the way for a more sustainable and widely accepted future.
 
 Artificial Intelligence utilised ChatGPT and Bing Chat may be cause waves, another innovative technology stands out for sheer novelty and potential
@@ -188,11 +194,12 @@ if it comes up smelling like roses or if the whole technology smell a bit fishy.
 In Jamaica as well as the region, synthetic musks and plithalates are potentially hazardous compounds which are also used as perfume ingredient. Will
 it ever possible to transfer scents digitally?  It could probably be done, but human need some sort of Virtual Reality equivalent technology that
 activates the brain areas that process smell, as well as a smell scanner thaat can convert the odor's into electrical that can be transmitted to this
-Virtual Reality Technology.
+Virtual Reality Technology. Although algorithms with the use of parity bits are prevalent among DST this program needs to be develop to satisfy the
+growth and development of the market.
 
 It is possible to digital smell.  Smell can be deteched as gas or vapour or liquid then one can characterise that gas/liquid chemically by GC-NIS
 spectrum and perhaps then it could be digital to store the 'Gas' pattern in the spectrum data.  One can use an evacuated super clean glass bulb called
-an 'Odor Bulb' to capture some of the air for later analysis.  Usually, the odorant is at too low a concentration for direct detection when this method
+an 'Odor Bulb' to capture some of the air for later analysis.  Usually, the odorant is too low a concentration for direct detection when this method
 is used to collect a GC/MS analysis.
 
 THE IMPACT OF LIMITED ADOPTION DST IN JAMAICA AND THE REST OF THE REGION
